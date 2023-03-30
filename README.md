@@ -1,1 +1,1 @@
-# WebScraper
+# <center>WebScraper</center>
