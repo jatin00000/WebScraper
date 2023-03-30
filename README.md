@@ -5,5 +5,11 @@
 + The data of each day, stored in a CSV file titled `ddmmyyy_verge.csv`, with the following header `id, URL, headline, author, date` and in a SQLite Database.<br/>
 - - -
 ## Python Script and Assumptions
-+ The Python scripts require following some modules to run. Below is code to install them
-  ```pip install requests, bs4, pyodbc, csv```
++ The Python scripts require following some modules to run. Below is code to install them <br/>
+```
+pip install requests, bs4, pyodbc, csv
+```
++ The Articles for each date are available separately on theverge.com. To get articles for any date, below is the URL format, just replace `{year}`, `{month}` and `{date}` in the url.
+```
+https://www.theverge.com/archives/{year}/{month}/{day}
+```
