@@ -36,7 +36,7 @@ https://www.theverge.com/archives/2023/3/30
 ![image](https://user-images.githubusercontent.com/94428262/228813912-95c741d6-9373-4052-a5a4-ac399e50d6d8.png)
 &nbsp;
 
-+ For automatically running the script every day, I used [`cron`](https://en.wikipedia.org/wiki/Cron) command of Linux, &nbsp;
++ For automatically running the script every day, I used [`cron`](https://en.wikipedia.org/wiki/Cron) command of Linux, <br/>
   It runs the script everyday at 07:05 PM at UTC.
   ```
   crontab -e
