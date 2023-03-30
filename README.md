@@ -26,7 +26,7 @@ https://www.theverge.com/archives/2023/3/30
 &nbsp;
 
 ## My Working
-+ I am using a VM with Linux to run this script. <br/>
++ I am using a Virtual Machine with Linux to run this script. <br/>
 &nbsp;
 + The Day, I am writing this Readme file, the script has already ran for 3 days 27th, 28th and 29th March 2023. <br/>
 &nbsp;
